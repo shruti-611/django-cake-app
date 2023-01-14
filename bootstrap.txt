@@ -1,0 +1,24 @@
+div class -- container
+
+mt margin top
+mb margin bottom
+ml margin left
+mr margin right
+
+p padding
+pt
+pb
+pl
+pr
+
+info sky
+primary blue
+secondary grey
+success green
+danger red
+warning orange
+
+
+container =left and right jadti margin
+container-fluid=left and right thodi margin
+text-light,text-dark
